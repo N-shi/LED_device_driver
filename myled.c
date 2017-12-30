@@ -5,9 +5,9 @@
 #include <asm/uaccess.h>
 #include <linux/io.h>
 
-MODULE_AUTHOR("naoki");
+MODULE_AUTHOR("N-shi");
 MODULE_DESCRIPTION("driver for LED control");
-MODULE_LICENSE("GPL");
+MODULE_LICENSE("MIT");
 MODULE_VERSION("0.1");
 
 static dev_t dev;
